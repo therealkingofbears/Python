@@ -1,0 +1,1 @@
+#Los sets/conjuntos son colecciones de elementos que no pueden repetirse

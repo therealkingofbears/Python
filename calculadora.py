@@ -1,6 +1,6 @@
-"""
+'''
 Comentario encerrado entre triple comilla - convención de nombres de variables en Python es snake_case
-"""
+'''
 
 anio_actual = 2023
 

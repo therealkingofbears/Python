@@ -1,0 +1,1 @@
+#Las tuplas en Python son colecciones de datos inmutables
